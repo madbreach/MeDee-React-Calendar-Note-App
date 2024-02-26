@@ -1,0 +1,15 @@
+.circle {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-image: url("../public/placeholder.jpeg");/* You can change the background color */
+    border-radius: 50%;
+    
+  }
+  .profile-section{
+    margin: 20px; /* Adjust margin as needed */
+    float: right;
+  }
+ .edit-profile{
+    margin-left: 55px;
+ }
